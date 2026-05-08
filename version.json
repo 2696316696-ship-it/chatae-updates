@@ -2,10 +2,9 @@
   "version": "1.4.0",
   "date": "2024-06-01",
   "notes": [
-    "<span class='text-green-400 font-bold'>[发布]</span> ChatAE V1.3.0 创世版本正式发布！",
-    "<span class='text-blue-400 font-bold'>[系统]</span> 已全面接入专属域名 OTA 推送引擎。"
+    "<span class='text-green-400 font-bold'>[发布]</span> ChatAE V1.4.0 创世版本正式发布！",
+    "<span class='text-blue-400 font-bold'>[系统]</span> 已全面接入专属域名 OTA 推送引擎。",
+    "<span class='text-yellow-400 font-bold'>[下载密码]</span> 百度网盘提取码：1234"
   ],
-  "downloadUrl": "[通过网盘分享的文件：ChatAE_V1.4正式版
-链接: https://pan.baidu.com/s/1WMYlWYPTgAUNa9xbNL9J3g?pwd=1234 提取码: 1234 
---来自百度网盘超级会员v5的分享]"
+  "downloadUrl": "[https://pan.baidu.com/s/1WmYlWYPTgAuNa9xbNL9J3g?pwd=1234](https://pan.baidu.com/s/1WmYlWYPTgAuNa9xbNL9J3g?pwd=1234)"
 }
